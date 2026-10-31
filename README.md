@@ -24,8 +24,8 @@ Random Forest performed best overall (ROC-AUC 0.93). XGBoost had the best recall
 ![Scoreboard](score_board.png)
 
 ## The App
-![App](app_screenshot.png)
-![Result](result_screenshot.png)
+![App](app%20screenshort.png)
+![Result](result%20screenshort.png)
 
 ## How to run
 pip install streamlit pandas joblib scikit-learn==1.6.1 xgboost==3.4.1
